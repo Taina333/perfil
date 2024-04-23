@@ -1,0 +1,84 @@
+div {
+    background-color: rgb(255, 255, 255);
+    color: rgb(195, 0, 255);
+}
+p {
+    background-image: url("https://receitinhas.com.br/wp-content/uploads/2017/12/coxinha-de-frango-com-queijo.jpg");
+  }
+body {
+    background-image:url("image/fotoBruno.jpg")
+  }
+#MINHAS-INFORMAÇÕES {
+    background-color: rgb(195, 0, 255);
+    color: rgb(255, 255, 255);
+    width: 3000px;
+    height: 20px;
+}  
+#Nome {
+    text-align: center;
+    background-color: rgb(195, 0, 255);
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 150px;
+}  
+#idade {
+    text-align: center;
+    background-color: rgb(195, 0, 255);
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 150px;
+}  
+#cpf {
+    text-align: center;
+    background-color: rgb(195, 0, 255);
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 150px;
+}  
+#Numero-do-cartão {
+    text-align: center;
+    background-color: rgb(195, 0, 255);
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 150px;
+}
+#Senha-do-cartão {
+    text-align: center;
+    background-color: rgb(195, 0, 255);
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 150px;
+}
+#MAIS-SOBRE-MIM {
+    background-color: rgb(195, 0, 255);
+    color: rgb(255, 255, 255);
+    width: 3000px;
+    height: 20px;
+}
+#HOBBIE-FAVORITO {
+    text-align: center;
+    background-color: rgb(195, 0, 255);
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 150px;
+}
+#PASSA-TEMP0 {
+    text-align: center;
+    background-color: rgb(195, 0, 255);
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 150px;
+}
+#COMIDA-FAVORITA {
+    text-align: center;
+    background-color: rgb(195, 0, 255);
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 150px;
+}
+body{
+    background-color: rgb(68, 68, 173);
+}
+h3 {
+    text-shadow: 2px 2px rgba(0, 0, 0, 0);
+  }
